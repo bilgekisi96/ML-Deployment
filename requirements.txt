@@ -61,7 +61,6 @@ jupyter-client==6.1.2
 jupyter-console==6.0.0
 jupyter-core==4.6.3
 jupyterlab-widgets==1.1.0
-kazam==1.4.5
 keras==2.8.0
 Keras-Preprocessing==1.1.2
 keyring==18.0.1
